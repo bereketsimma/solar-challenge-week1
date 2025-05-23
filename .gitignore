@@ -2,3 +2,14 @@
 data/
 *.csv
 *.ipynb_checkpoints/
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.pyc
+*.pkl
+.env
+data/
+venv/
+
